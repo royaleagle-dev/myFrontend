@@ -1,0 +1,52 @@
+@import url('colors.css');
+@import url('utilities.css');
+@import url('fonts.css');
+
+h1,h2,h3,h4,h5,h6{
+    color: var(--cadmium-green);
+}
+
+.hero{
+    background: var(--gradient-1), url('../images/bg-image-1.png');
+    background-size: cover;
+    padding: 30px 71px 0 71px;
+}
+
+nav{
+    background: var(--cadmium-green);
+    border-radius: 24px;
+    font-size: 16px;
+    font-weight: bold;
+    width: 100%;
+}
+
+#flex-container{
+    padding: 20px 40px;
+    
+}
+
+#nav-items{
+    gap: 33px;
+}
+
+#login-button{
+    background: var(--orange-red);
+    padding: 10px 30px;
+    border-radius: 16px;
+    color:white;
+}
+
+#login-button:hover{
+    background: var(--amaranth-red);
+}
+
+#most-popular{
+    background: white;
+    padding: 5% 10%;
+}
+
+.most-popular-items .popular-item{
+    width: 270px;
+    background: #069c5647;
+    border-radius: 16px;
+}

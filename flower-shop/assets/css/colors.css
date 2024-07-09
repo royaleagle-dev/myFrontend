@@ -1,0 +1,15 @@
+:root{
+    --amaranth-red: #d3212c;
+    --orange-red: #ff681e;
+    --yellow-orange: #ff980e;
+    --shamrock-green: #069c56;
+    --cadmium-green: #006b3d;
+    --white: #fff;
+    --black: #000;
+    --gradient-1: linear-gradient(#006b3d, #069c5680);
+    --transparent-green-1: #069c5684;
+}
+
+.text-white{
+    color: var(--white);
+}
