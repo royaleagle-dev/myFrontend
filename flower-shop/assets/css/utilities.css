@@ -62,6 +62,14 @@ a{
     text-align: center;
 }
 
+.text-left{
+    text-align: left;
+}
+
+.text-right{
+    text-align: right;
+}
+
 .paragraph-2{
     font-size: 24px;
 }

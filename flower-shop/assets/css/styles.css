@@ -70,3 +70,12 @@ nav{
 #delivery-section .login-button{
     background: var(--amaranth-red);
 }
+
+#about-section{
+    padding: 150px;
+    background: white;
+}
+
+#about-section h2, #about-section p{
+    color: var(--cadmium-green);
+}
