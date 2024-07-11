@@ -3,7 +3,7 @@ body{
     padding:0;
 }
 
-h1,h2,h5{
+h1,h2,h5,p{
     margin: 0;
     padding: 0;
     border: 0;
@@ -60,5 +60,13 @@ a{
 
 .text-center{
     text-align: center;
+}
+
+.paragraph-2{
+    font-size: 24px;
+}
+
+.paragraph-1{
+    font-size: 16px;
 }
 

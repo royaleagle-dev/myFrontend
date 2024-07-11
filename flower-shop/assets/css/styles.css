@@ -29,7 +29,7 @@ nav{
     gap: 33px;
 }
 
-#login-button{
+#login-button, .login-button{
     background: var(--orange-red);
     padding: 10px 30px;
     border-radius: 16px;
@@ -49,4 +49,24 @@ nav{
     width: 270px;
     background: #069c5647;
     border-radius: 16px;
+}
+
+#delivery-icon{
+    width: 430px;
+    height: 258px;
+}
+
+#delivery-section{
+    background: url('../images/flower-delivery-bg.png'), var(--shamrock-green);
+    padding: 90px 145px;
+}
+
+#delivery-section .h-2{
+    color: var(--amaranth-red);
+    text-shadow: -2px -2px 0 white, 2px -2px 0 white, 2px 2px 0 white,
+    2px 2px 0 white;
+}
+
+#delivery-section .login-button{
+    background: var(--amaranth-red);
 }
