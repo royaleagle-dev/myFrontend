@@ -79,3 +79,20 @@ nav{
 #about-section h2, #about-section p{
     color: var(--cadmium-green);
 }
+
+#collections-section{
+    background: white;
+    padding: 150px;
+}
+
+#collection-text{
+    max-width: 459px;
+}
+
+.love-bg{
+    height: 45px;
+    width: 50px;
+    background: url('../images/love-icon.png');
+    background-size: cover;
+    background-repeat:no-repeat;
+}

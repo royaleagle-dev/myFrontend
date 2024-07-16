@@ -13,3 +13,11 @@
 .text-white{
     color: var(--white);
 }
+
+.bg-orange-red{
+    background: var(--orange-red);
+}
+
+.bg-cadmium-green{
+    background: var(--cadmium-green);
+}
